@@ -1,0 +1,101 @@
+# W3F Grant Proposal
+
+- **Project Name:** Stoa - Crypto Risk and Portfolio Management
+- **Team Name:** Stoa Capital
+- **Payment Address:** 143AwvWryAJ5iBVhAvki4hPPTsSXSSBT8MmxC7pbwXwfQDgD (DOT/USDC)
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
+
+## Project Overview :page_facing_up:
+
+### Overview
+
+- **Tagline:** Advanced tools for liquidity management, risk assessment, and portfolio optimization in the crypto space.
+- **Description:** Stoa is a decentralized application (dApp) designed for risk and portfolio management in the cryptocurrency space. The project aims to provide users with advanced tools for liquidity management, risk assessment, and portfolio optimization, leveraging blockchain technology for transparency and security. By integrating with the Substrate framework, Stoa will enhance its functionalities with robust blockchain features, ensuring data security and integrity.
+- **Relation to Substrate/Polkadot/Kusama:** Stoa will leverage the Substrate framework to build its decentralized application, ensuring seamless integration with the Polkadot and Kusama ecosystems. This integration will provide users with enhanced security, interoperability, and scalability.
+- **Interest:** I am passionate about revolutionizing risk and portfolio management in the crypto space. By building on Substrate, I can leverage the latest blockchain technology to provide a secure and efficient platform for users.
+
+### Project Details
+
+- **Mockups/Designs:** NA
+- **Data Models/API Specifications:** The core functionalities will include APIs for fetching market data, calculating risk metrics (VaR, Sharpe ratio, etc.), and managing portfolios.
+- **Technology Stack:** Substrate framework, Rust programming language, React.js for front-end development, IPFS for decentralized storage.
+- **Documentation:** Comprehensive documentation will be provided, including API specifications, architecture diagrams, and user guides.
+- **PoC/MVP:** The initial proof-of-concept for the core risk management modules is been developed and is available in our GitHub repository.
+- **Limitations:** At this time the project will only provide limited portfolio and risk assessment
+
+### Ecosystem Fit
+
+- **Fit in Ecosystem:** Stoa aims to fill the gap in the Polkadot/Kusama ecosystem by providing advanced risk and portfolio management tools for crypto traders and investors.
+- **Target Audience:** Crypto traders, institutional investors, financial analysts, and developers in the Polkadot/Kusama ecosystem.
+- **Needs Met:** The project addresses the need for sophisticated risk management and portfolio optimization tools in the crypto space.
+- **Similar Projects:** While there are other portfolio management tools, Stoa's integration with Substrate and focus on advanced risk management sets it apart.
+
+## Team :busts_in_silhouette:
+
+### Team members
+
+- Lucas Abbruzzini (Team Leader, CEO & Lead Developer)
+
+### Contact
+
+- **Contact Name:** Lucas Abbruzzini
+- **Contact Email:** lucas.abbruzzini@proton.me.com
+- **Website:** [Stoa Capital](https://www.stoa.capital)
+
+### Legal Structure
+
+- **Registered Address:** Not yet incorporated, likely to be incorporated in the UK, Ireland or Switzerland in the upcoming weeks
+- **Registered Legal Entity:** It will be a Limited Liability Company 
+
+### Team's experience
+
+I have extensive experience in software development, blockchain technology, and financial services. As a consultant at Accenture, I have honed my skills in project management, strategic planning, and execution. 
+
+### Team Code Repos
+
+- [Stoa Repository](https://github.com/stoa-rs/stoa.rs)
+
+### Team LinkedIn Profiles
+
+- [Lucas Abbruzzini](https://www.linkedin.com/in/lucasabbruzzini/)
+
+## Development Status :open_book:
+
+The initial proof-of-concept for the core risk management modules is been developed and is available in our GitHub repository. I am developing it as I move foward in my Masters of Financial Engineering while learning the best methodologies
+
+## Development Roadmap :nut_and_bolt:
+
+### Overview
+
+- **Total Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 1
+- **Total Costs:** 10,000 USD
+
+### Milestone 1 — Core Module Development and Integration with Filecoin
+
+- **Estimated duration:** 2 months
+- **FTE:** 1
+- **Costs:** 10,000 USD
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | I will provide both inline documentation of the code and a basic tutorial that explains how a user can set up and use the core modules. |
+| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, I will describe how to run these tests. |
+| 1. | Core Modules | Development of core risk management modules including VaR, Sharpe ratio, and liquidity ratio calculations. All Libraries developed in Rust or other languages will be made avaiable open source at Github|
+| 2. | Front end | Development of frontend
+| 3. | Front end | Platform Launch with limited functionalities to be evolved in time
+
+## Future Plans
+
+In the short term, I plan to enhance Stoa by integrating machine learning algorithms for predictive analytics and automated trading strategies. I will also actively promote the platform through educational content, webinars, and community engagement.
+
+In the long term, I aim to establish Stoa as a leading platform for crypto risk and portfolio management. I plan to continuously improve the platform based on user feedback, expand its features, and explore strategic partnerships to broaden its reach.
+
+I also plan to launch a book on Risk and Portfolio Management centering the our rust library 
+
+## Additional Information :heavy_plus_sign:
+
+**How did you hear about the Grants Program?** Web3 Foundation Website
+
+There are no other teams who have contributed financially to the project so far. This is my first grant application. I do expect to apply for more grants in the future.
