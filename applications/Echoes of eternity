@@ -1,0 +1,162 @@
+# Name of your Project
+
+> This document will be part of the terms and conditions of your agreement and, therefore, needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g., `![](image.png)` instead of `<img>`).
+>
+> See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
+
+- **Team Name:** Echos of Eternity
+- **Payment Details:**
+  - **DOT:** 15oF4BbuP6ZwSjxqf9f7HvR1WCM1YbvXqkjP5HUxPcmApGLD (example)
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
+
+## Project Overview :page_facing_up:
+
+### Overview
+
+- **Tagline:** A medieval fantasy MOBA/Grind mix where items can oonly be earned in Grind fashion.
+- **Description:** "Echoes of Eternity" is a web3 game that blends MOBA and grind-style RPG elements. Players engage in 5v5 battles using champions that can only use items acquired through quests. Set in a medieval world, the game leverages blockchain technology to ensure transparency and security and you will use NFTs as items earned through out the game, and staking as a way to avoid nerfing them as patches are release.
+- **Integration with Substrate/Polkadot/Kusama:** The game will use Substrate for its blockchain infrastructure, ensuring secure and transparent transactions for item ownership and marketplace functionalities. By integrating with Polkadot, "Echoes of Eternity" will benefit from interoperability with other projects in the ecosystem.
+- **Interest in Project:** Our team is passionate about creating innovative gaming experiences and believes that integrating blockchain technology can revolutionize player engagement and asset ownership in gaming.
+
+### Project Details
+
+- **UI Mockups/Designs:** To be developed during the initial phase.
+- **Data Models / API Specifications:**
+  - Core gameplay APIs
+  - NFT item ownership and transaction APIs
+  - Marketplace APIs
+- **Technology Stack:**
+  - **Frontend:** Unity/Unreal Engine, React.js
+  - **Backend:** Rust, Node.js, Substrate, IPFS for decentralized storage
+  - **Smart Contracts:** Solidity for Ethereum-based contracts
+- **Documentation:**
+  - Inline code documentation
+  - API documentation
+  - User guides
+- **PoC/MVP:** Initial prototype with core gameplay mechanics and basic NFT integration
+- **Exclusions:** The project will not provide deployment and hosting costs, future tokenomics, or business-oriented activities such as marketing and events.
+
+### Ecosystem Fit
+
+- **Fit in Ecosystem:** "Echoes of Eternity" will be a unique addition to the Polkadot ecosystem, providing a new genre of blockchain-based gaming with a focus on asset ownership and player-driven economy.
+- **Target Audience:** Gamers, blockchain enthusiasts, developers interested in game development and blockchain integration.
+- **Needs Met:**
+  - Secure and transparent item ownership through NFTs.
+  - Engaging gameplay that combines MOBA and RPG elements.
+- **Identification of Needs:** Based on market research, forum discussions, and user feedback from existing blockchain games.
+- **Similar Projects:** While there are other blockchain-based games, "Echoes of Eternity" stands out with its unique combination of medieval and futuristic elements and its focus on a player-driven economy.
+- **Related Ecosystems:** Games like Axie Infinity and CryptoBlades have shown the potential of blockchain gaming, but "Echoes of Eternity" offers a distinct gameplay experience.
+
+## Team :busts_in_silhouette:
+
+### Team members
+
+- **CEO:** Lucas Abbruzzini
+- **CTO:** Victor Seyfried
+
+### Contact
+
+- **Contact Name:** Lucas Abbruzzini
+- **Contact Email:** lucas.abbruzzini@proton.me
+- **Website:** [None yet
+
+### Legal Structure
+
+- **Registered Address:** None yet
+- **Registered Legal Entity:** None yet
+
+### Team's experience
+
+- Lucas Abbruzzini has extensive experience in software development and financial services. He  is currently leading the development of Stoa, a decentralized application for crypto risk and portfolio management.
+- Victor Seyfried is an experienced software programmer with a background in game development. He has worked on multiple gaming projects and brings valuable expertise in creating engaging and technically robust gaming experiences.
+
+### Team Code Repos
+
+https://github.com/Echos-of-Eternity-Web3-Game
+
+### Team LinkedIn Profiles
+
+- [Lucas Abbruzzini](https://www.linkedin.com/in/lucasabbruzzini/)
+
+## Development Status :open_book:
+
+We have started the initial design phase and have a proof-of-concept for the core gameplay mechanics. Documentation and preliminary research have been conducted and can be provided upon request.
+
+## Development Roadmap :nut_and_bolt:
+
+### Overview
+
+- **Total Estimated Duration:** 12 months
+- **Full-Time Equivalent (FTE):** 4 FTE
+- **Total Costs:** $100,000
+
+### Milestone 1 — Game Design Document and Initial Prototype
+
+- **Estimated duration:** 3 months
+- **FTE:** 2
+- **Costs:** $25,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | Documentation | Inline code documentation and a basic tutorial on setting up the game environment. |
+| **0b.** | Testing and Testing Guide | Comprehensive unit tests for core functions, with a guide on running these tests. |
+| **0c.** | Docker | Dockerfile for testing all functionality delivered with this milestone. |
+| 1. | Game Design Document | Detailed GDD including gameplay mechanics, champion abilities, quest systems, and item specifications. |
+| 2. | Basic Prototype | A basic prototype with limited gameplay mechanics and placeholder assets. Initial integration with blockchain for NFT item ownership. |
+
+### Milestone 2 — Advanced Prototype and Smart Contracts
+
+- **Estimated duration:** 3 months
+- **FTE:** 2
+- **Costs:** $25,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | Documentation | Updated documentation including new features and smart contract integration. |
+| **0b.** | Testing and Testing Guide | Expanded unit tests covering new functionalities. |
+| **0c.** | Docker | Updated Dockerfile for new functionalities. |
+| 1. | Advanced Prototype | Expanded prototype with additional champions, enhanced quest system, and improved UI/UX. |
+| 2. | Smart Contracts | Development and deployment of smart contracts for item ownership and marketplace functionalities. |
+
+### Milestone 3 — Beta Launch
+
+- **Estimated duration:** 3 months
+- **FTE:** 2
+- **Costs:** $25,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | Documentation | Comprehensive documentation for beta testers and developers. |
+| **0b.** | Testing and Testing Guide | Full coverage of unit tests and integration tests. |
+| **0c.** | Docker | Dockerfile for beta testing environment. |
+| 1. | Beta Version | A fully functional beta version with a complete set of champions, items, quests, and marketplace. |
+| 2. | User Feedback Integration | Collect and integrate feedback from beta testers to improve the game. |
+
+### Milestone 4 — Full Launch
+
+- **Estimated duration:** 3 months
+- **FTE:** 2
+- **Costs:** $25,000
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | Documentation | Final documentation including a comprehensive user guide and developer API documentation. |
+| **0b.** | Testing and Testing Guide | Finalized testing guide with full test coverage. |
+| **0c.** | Docker | Dockerfile for full production environment. |
+| 1. | Full Game Launch | Complete version of the game with all features fully implemented, including additional champions, items, quests, and a polished user interface. |
+| 2. | Community Building | Implement community engagement tools and events to build and support the player community. |
+| 3. | Marketing and Outreach | Execute a marketing plan to attract a broader audience and ensure successful launch. |
+
+## Future Plans
+
+- **Long-term Maintenance and Development:**
+  - We plan to finance the project’s long-term maintenance and development through in-game purchases, NFT sales, and potential partnerships with other blockchain projects.
+  - Regular updates will be provided to introduce new content, balance gameplay, and fix any bugs.
+
+- **Short-term Enhancements and Promotion:**
+  - In the short term, we intend to enhance the game by adding more champions, quests, and items. We will also work on refining the user experience and integrating feedback from the community.
+  - We will promote "Echoes of Eternity" through social media campaigns, collaborations with influencers, and by participating in gaming and blockchain events.
+
+- **Long-term Plans and Intentions:**
+  - Our long-term vision for "Echoes of Eternity" is to establish it as a leading game in the blockchain gaming space. We aim to create a vibrant community of players and continuously expand the game’s universe with new features and content.
+  - We also plan to explore the possibilities of decentralized governance, allowing the community to have a say in the game’s future development.
